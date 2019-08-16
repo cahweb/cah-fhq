@@ -31,7 +31,7 @@
 
 <div class="row">
 	<div class="col-md-2 hidden-xs hidden-sm">
-		<?php get_sidebar(sidebar1); ?>
+		<?php get_sidebar('sidebar1'); ?>
 	</div>
 	<div class="col-md-10">
 			<div class="row hidden-xs">
