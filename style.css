@@ -1,0 +1,18 @@
+/*
+ Theme Name:   Florida Historical Quarterly
+ Theme URI:    http://fhq.cah.ucf.edu/
+ Description:  Florida Historical Quarterly Theme
+ Author:       Miguel Ramos
+ Template:     tbone
+ Version:      1.0.0
+ Text Domain:  Florida Historical Quarterly
+*/
+@import url("css/style.css");
+/*@import url("../../../tbone/library/css/style.css");*/
+
+/* =Theme customization starts here
+-------------------------------------------------------------- */
+
+div#sidebar1 {
+	border-right:1px dotted black;
+}
